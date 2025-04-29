@@ -2,4 +2,6 @@
     url: jdbc:mysql://localhost:3307/microProject?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
     username: microProject
     password: microProject
+custom:
+  message: "Running in Dev profile"
    
