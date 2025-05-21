@@ -2,7 +2,7 @@
 spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url:  jdbc:mysql://mysql:3307/microProject?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
+    url:  jdbc:mysql://mysql:3306/microProject?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
     username: microProject
     # password: microProject
     hikari:
